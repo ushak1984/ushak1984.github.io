@@ -33,7 +33,7 @@ Built machine learning models to classify network attacks and detect anomalies u
 - Used Gradient Boosting and One-Class SVM
 - Evaluated attack patterns including DDoS, malware, brute-force, and intrusion activity
 
-[View Project](PASTE_YOUR_PROJECT_REPO_LINK_HERE)
+[View Project](PASTE_PROJECT_REPO_LINK_HERE)
 
 ---
 
@@ -49,7 +49,7 @@ Built an end-to-end cloud data engineering pipeline using Microsoft Azure servic
 - Created Azure Synapse external tables
 - Built Power BI dashboards with slicers and multi-tab reports
 
-[View Project](PASTE_YOUR_PROJECT_REPO_LINK_HERE)
+[View Project](PASTE_PROJECT_REPO_LINK_HERE)
 
 ---
 
@@ -64,7 +64,7 @@ Built a natural language processing pipeline to classify news text.
 - Compared model performance using accuracy and F1-score
 - Analyzed headline distributions and category patterns
 
-[View Project](PASTE_YOUR_PROJECT_REPO_LINK_HERE)
+[View Project](PASTE_PROJECT_REPO_LINK_HERE)
 
 ---
 
@@ -78,7 +78,7 @@ Designed a data analytics project inspired by prior professional experience in Z
 - Connected IoT domain knowledge with data science workflows
 - Demonstrated sensor-data analysis, feature engineering, and model evaluation
 
-[View Project](PASTE_YOUR_PROJECT_REPO_LINK_HERE)
+[View Project](PASTE_PROJECT_REPO_LINK_HERE)
 
 ---
 
@@ -116,6 +116,6 @@ My experience includes:
 
 ## Contact
 
-- LinkedIn: PASTE_YOUR_LINKEDIN_LINK_HERE
+- LinkedIn: https://www.linkedin.com/in/usha-priya-krishnasamy-33134410
 - GitHub: https://github.com/ushak1984
 - Email: ushapriyakofficial@gmail.com
