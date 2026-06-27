@@ -116,6 +116,4 @@ My experience includes:
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/usha-priya-krishnasamy-33134410
-- GitHub: https://github.com/ushak1984
-- Email: ushapriyakofficial@gmail.com
+*** CAn add linkedin , github anf email ID in the future **
